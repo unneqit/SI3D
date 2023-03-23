@@ -10,7 +10,7 @@
   "author": "Nicolas",
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^8.2.0",
+    "autoprefixer": "^8.6.5",
     "babel-preset-env": "^1.6.1",
     "flexboxgrid": "^6.3.1",
     "fullpage.js": "^2.9.6",
